@@ -22,6 +22,7 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 ![CodeBuddy](https://img.shields.io/badge/CodeBuddy-07C160?style=flat-square&logo=wechat&logoColor=white)
 ![WorkBuddy](https://img.shields.io/badge/WorkBuddy-1677FF?style=flat-square&logo=bytedance&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ## 💡 核心能力
 
