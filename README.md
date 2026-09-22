@@ -16,7 +16,7 @@
 
 | 项目 | 简介与直达链接 | 状态 / 演示 |
 |:---|:---|:---:|
-| 🏥 **[china-medical-insurance](https://github.com/good9527/china-medical-insurance)** | **全国医疗保险待遇估算与政策知识库平台**<br/>• 🇨🇳 **348 个统筹区 100% 全量覆盖**（31省市自治区及兵团）<br/>• 📜 **700+ 份官方红头公文**严格穿透溯源，0 幻觉真实可查<br/>• 🧪 **7,178 项自动化断言**全域场景覆盖，7 重工业级质检防线<br/>• 📊 门诊共济、梯次住院、大病保险、跨省异地就医直接结算预估<br/>👉 **[🌐 点击直接在线使用 (免安装·即开即用)](https://good9527.github.io/china-medical-insurance/)** | [![GitHub stars](https://img.shields.io/github/stars/good9527/china-medical-insurance?style=flat-square)](https://github.com/good9527/china-medical-insurance)<br/>[![Live Demo](https://img.shields.io/badge/Demo-在线运行-brightgreen?style=flat-square&logo=googlechrome)](https://good9527.github.io/china-medical-insurance/)<br/>![Assertions](https://img.shields.io/badge/断言-7%2C178项-blue?style=flat-square) |
+| 🏥 **[china-medical-insurance](https://github.com/good9527/china-medical-insurance)** | **全国医疗保险待遇估算与政策知识库平台**<br/>• 🇨🇳 **348 个统筹区 100% 全量覆盖**（31省市自治区及兵团）<br/>• 📜 **700+ 份官方红头公文**严格穿透溯源，0 幻觉真实可查<br/>• 🧪 **7,184 项自动化断言**全域场景覆盖，7 重工业级质检防线<br/>• 📊 门诊共济、梯次住院、大病保险、跨省异地就医直接结算预估<br/>👉 **[🌐 点击直接在线使用 (免安装·即开即用)](https://good9527.github.io/china-medical-insurance/)** | [![GitHub stars](https://img.shields.io/github/stars/good9527/china-medical-insurance?style=flat-square)](https://github.com/good9527/china-medical-insurance)<br/>[![Live Demo](https://img.shields.io/badge/Demo-在线运行-brightgreen?style=flat-square&logo=googlechrome)](https://good9527.github.io/china-medical-insurance/)<br/>![Assertions](https://img.shields.io/badge/断言-7%2C178项-blue?style=flat-square) |
 | 🛸 **[Antigravity-Chinese-Patch](https://github.com/good9527/Antigravity-Chinese-Patch)** | **Google Antigravity 深度汉化补丁**<br/>四级自愈守护架构 · 官方更新零感知 · 深度本土化中文补丁 | [![GitHub stars](https://img.shields.io/github/stars/good9527/Antigravity-Chinese-Patch?style=flat-square)](https://github.com/good9527/Antigravity-Chinese-Patch) |
 | 💬 **[Claude-Desktop-Chinese](https://github.com/good9527/Claude-Desktop-Chinese)** | **Anthropic Claude Desktop 全量汉化**<br/>22,000+ 词条深度翻译 · 攻破 MSIX 权限锁与只读限制 | [![GitHub stars](https://img.shields.io/github/stars/good9527/Claude-Desktop-Chinese?style=flat-square)](https://github.com/good9527/Claude-Desktop-Chinese) |
 | ⚡ **[win-automation-mcp](https://github.com/good9527/win-automation-mcp)** | **Windows 桌面自动化 MCP 服务器**<br/>基于原生 Win32/UIAutomation API · 毫秒级极速响应 · 完全离线 | [![GitHub stars](https://img.shields.io/github/stars/good9527/win-automation-mcp?style=flat-square)](https://github.com/good9527/win-automation-mcp) |
@@ -42,7 +42,7 @@
 
 - 🗣️ **跟 AI 说骚话** — 用最接地气的 prompt 逼 AI 写出最正经严谨的民生级代码
 - 🧠 **AI 军团指挥官** — 一句话调度多 Agent 协同做深度 review、自动化测试与全量法规穿透核验
-- 🏥 **民生硬核工程** — 穿透 348 个医保统筹区政府红头文件，搭建 7,178 项自动化断言的零幻觉医保预估知识库
+- 🏥 **民生硬核工程** — 穿透 348 个医保统筹区政府红头文件，搭建 7,184 项自动化断言的零幻觉医保预估知识库
 - 🔓 **系统级逆向与深研** — 攻破 Windows MSIX 权限锁、ASAR 热注入、四级自愈守护架构
 - 🎯 **精准甩锅** — 代码有 bug？AI 写的。代码很棒？我指挥的
 - 🥤 **核心生产力** — 开一罐无糖可乐、等 AI 干完活
